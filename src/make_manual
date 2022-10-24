@@ -3,3 +3,5 @@
 
 make run-○○
 make clean-○○
+
+※gitbashはmakeに非対応→WSLを使用する

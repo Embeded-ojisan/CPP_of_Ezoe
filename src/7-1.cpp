@@ -27,5 +27,5 @@ int main()
         }
     };
 
-    std::cout MM status(bmi);
+    std::cout << status(bmi);
 }
